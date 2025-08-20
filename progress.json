@@ -99,23 +99,5 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755678848.088337,
-    "completed_at": 1755678848.499215,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755678881.261931,
-    "completed_at": 1755678881.30335,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
   }
 ]
