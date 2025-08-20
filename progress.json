@@ -163,5 +163,15 @@
       "Reset the exercise using 'gitmastery progress reset' to try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755683652.78821,
+    "completed_at": 1755683652.86043,
+    "comments": [
+      "You should not have pulled Bob's changes to your own main branch!",
+      "Reset the exercise using 'gitmastery progress reset' to try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
